@@ -1,0 +1,15 @@
+Accounts:
+
+Usernames:
+  a_new_name
+
+Emails:
+
+Friends:
+
+Links:
+
+Misc:
+  Discord (a_new_name): Account created: 09/30/2023, 17:29:18
+  Discord (a_new_name): Pronouns: 
+
