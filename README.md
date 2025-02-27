@@ -1,4 +1,3 @@
-
 # 🕵️‍♂️ Discord 🔍 OSINT Tool
 
 ## 🏆 Created by Naho
@@ -17,7 +16,7 @@ This 🛠️ is designed to gather **🔎 Open Source Intelligence (OSINT)** fro
   - 🐦 **Twitter**
   - 🎥 **Twitch**
   - 🎮 **PlayStation**
-- Extract **📧 emails & 🔗 links** from user bios
+- Extract **📧 emails & 🔗 links** from user bios and connected accounts
 - Collect **👤 usernames, 🤝 friends lists & 🗃️ miscellaneous** info
 - Export data in **📄 TXT & 📂 JSON** formats
 
@@ -73,7 +72,7 @@ The 🛠️ generates a structured 📜 output containing:
     "🎮 steam": [{ "name": "Old Krisss", "url": "https://steamcommunity.com/id/OldKrisss" }]
   },
   "usernames": ["Krisss", "ElKrissss"],
-  "emails": [],
+  "emails": ["example@gmail.com"],
   "friends": [{ "name": "ibai psoe", "url": "https://steamcommunity.com/profiles/76561198316736215" }],
   "links": ["https://github.com/CarloxCoC/SpamBot"],
   "misc": { "🐙 GitHub": { "public_repos": "1" } }
@@ -103,4 +102,3 @@ For any inquiries, reach out via **🐙 GitHub issues**.
 ---
 
 🚀 **🎯 Happy OSINT Hunting!**
-
