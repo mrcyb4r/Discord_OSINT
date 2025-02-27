@@ -66,17 +66,34 @@ The 🛠️ generates a structured 📜 output containing:
 
 ### 📑 Example JSON Output:
 ```json
-{
-  "accounts": {
-    "🐙 github": [{ "name": "ElKrissss", "url": "https://github.com/ElKrissss" }],
-    "🎮 steam": [{ "name": "Old Krisss", "url": "https://steamcommunity.com/id/OldKrisss" }]
-  },
-  "usernames": ["Krisss", "ElKrissss"],
-  "emails": ["example@gmail.com"],
-  "friends": [{ "name": "ibai psoe", "url": "https://steamcommunity.com/profiles/76561198316736215" }],
-  "links": ["https://github.com/CarloxCoC/SpamBot"],
-  "misc": { "🐙 GitHub": { "public_repos": "1" } }
-}
+███████████████████████████████████████████████████
+█                                                 █
+█  🔍 Scanning Discord ID: 123456789012345678      █
+█                                                 █
+███████████████████████████████████████████████████
+
+💀 **Username:** DarkHunter#1337  
+💀 **Display Name:** ShadowHacker  
+💀 **Bio:** "Hacking the system since '99"  
+💀 **Gmail Found:** ✉️ darkhunter1337@gmail.com  
+💀 **Phone:** 📱 +1 555-****-789  
+💀 **Badges:** 🏆 Nitro, 🔥 Early Supporter  
+💀 **Mutual Servers:** 🏴‍☠️ HackerSpace, 🏴‍☠️ CyberWarriors  
+💀 **Connected Accounts:**  
+    🎮 Steam: steamcommunity.com/id/darkhunter  
+    🐱 GitHub: github.com/dark1337  
+    🎥 Twitch: twitch.tv/dark_hacker  
+💀 **Profile Picture:** [Click Here](https://cdn.discordapp.com/avatars/123456789012345678/avatar.png)  
+💀 **Banner:** [Click Here](https://cdn.discordapp.com/banners/123456789012345678/banner.png)  
+💀 **Nitro Status:** ✅ Active  
+💀 **Account Created On:** 🗓️ 2015-06-24  
+💀 **IP Address (Leaked Data):** 🌍 102.91.4.82 (Nigeria)  
+💀 **Last Activity:** 👀 10 mins ago  
+
+███████████████████████████████████████████████████
+█  🛠️  Process Completed! Stay Anonymous! ☠️  █
+███████████████████████████████████████████████████
+
 ```
 
 ---
