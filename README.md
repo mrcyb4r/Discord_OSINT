@@ -64,7 +64,7 @@ python discord_osint.py 123456789 -t "your_discord_token_here" -o output.txt --v
 ```
 ███████████████████████████████████████████████████
 █                                                 █
-█  🔍 SCANNING DISCORD ID: 123456789012345678      █
+█  🔍 Scanning Discord ID: 123456789012345678      █
 █                                                 █
 ███████████████████████████████████████████████████
 
@@ -79,6 +79,17 @@ python discord_osint.py 123456789 -t "your_discord_token_here" -o output.txt --v
     🎮 Steam: steamcommunity.com/id/darkhunter  
     🐱 GitHub: github.com/dark1337  
     🎥 Twitch: twitch.tv/dark_hacker  
+💀 **Profile Picture:** [Click Here](https://cdn.discordapp.com/avatars/123456789012345678/avatar.png)  
+💀 **Banner:** [Click Here](https://cdn.discordapp.com/banners/123456789012345678/banner.png)  
+💀 **Nitro Status:** ✅ Active  
+💀 **Account Created On:** 🗓️ 2015-06-24  
+💀 **IP Address (Leaked Data):** 🌍 102.91.4.82 (Nigeria)  
+💀 **Last Activity:** 👀 10 mins ago  
+
+███████████████████████████████████████████████████
+█  🛠️  Process Completed! Stay Anonymous! ☠️  █
+███████████████████████████████████████████████████
+
 ```
 
 ---
