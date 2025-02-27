@@ -1,6 +1,6 @@
 # 🕵️‍♂️ Discord 🔍 OSINT Tool
 
-## 🏆 Created by Naho
+## 🏆 Created by Rocky Singh
 
 This 🛠️ is designed to gather **🔎 Open Source Intelligence (OSINT)** from 🎮 Discord user profiles and their connected 🔗 accounts. It leverages the **💻 Discord API** and various other platform APIs to collect 📊 and organize 🗂️ information.
 
